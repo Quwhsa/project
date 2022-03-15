@@ -3,7 +3,8 @@
 *italics*
 **bold**
 
-''' - item1
+'''javascript
+- item1
 - item2
 - item3
 '''
