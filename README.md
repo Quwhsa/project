@@ -7,7 +7,7 @@
 - item2
 - item3
 
-'''javascript
+```javascript
 var foo = 'foo';
 if(true) foo = 'foo';
-'''
+```
