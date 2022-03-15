@@ -3,6 +3,7 @@
 *italics*
 **bold**
 
-'''- item1
+''' - item1
 - item2
-- item3'''
+- item3
+'''
