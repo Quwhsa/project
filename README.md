@@ -3,8 +3,11 @@
 *italics*
 **bold**
 
-'''javascript
 - item1
 - item2
 - item3
+
+'''javascript
+var foo = 'foo';
+if(true) foo = 'foo';
 '''
