@@ -12,3 +12,5 @@
 var foo = 'foo';
 if(true) foo = 'foo';
 ```
+
+**오픈소스SW 프로젝트는 협력 기술에 중심**
