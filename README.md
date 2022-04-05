@@ -12,3 +12,5 @@
 var foo = 'foo';
 if(true) foo = 'foo';
 ```
+
+asdf
